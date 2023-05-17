@@ -1,0 +1,12 @@
+show
+add
+oleg
+1 1
+1
+baker
+fired
+1 2 12345678
+execute_script script.txt
+show
+show
+^D
